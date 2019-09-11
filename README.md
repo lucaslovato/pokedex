@@ -1,4 +1,4 @@
-# mevn-labtic-project
+# pokedex-mevn-labtic-project
 
 > A Vue.js project
 
