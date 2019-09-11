@@ -1,6 +1,6 @@
 # pokedex-mevn-labtic-project
 
-> A Vue.js project
+System created with the intute to teach the new interns at LABTIC-UDESC to learn the basics of web
 
 ## Build Setup
 
