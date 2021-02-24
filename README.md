@@ -1,6 +1,6 @@
 # pokedex-mevn-labtic-project
 
-System created with the intute to teach the new interns at LABTIC-UDESC to learn the basics of web
+This system was created with the idea to teach the new interns at LABTIC-UDESC to learn the basics of web
 
 ## Build Setup
 
@@ -9,7 +9,7 @@ System created with the intute to teach the new interns at LABTIC-UDESC to learn
 npm install
 
 # serve with hot reload at localhost:8080
-npm rUnnamedun dev
+npm run dev
 
 # build for production with minification
 npm run build
